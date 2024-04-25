@@ -46,6 +46,6 @@ import MusicPlayer from "./components/MusicPlayer.vue";
 .music {
   position: fixed;
   bottom: 10px;
-  width: 25px;
+  width: 25vw;
 }
 </style>
