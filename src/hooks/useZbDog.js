@@ -2,10 +2,10 @@ import { watch, ref } from "vue";
 
 export default function () {
   let imageUrl = ref(
-    "https://xiaoyuega-1301582000.cos.ap-shanghai.myqcloud.com/usr/uploads/2.png"
+    "h"
   );
   let audioSrc =
-    "https://xiaoyuega-1301582000.cos.ap-shanghai.myqcloud.com/usr/uploads/5c8b03a9155ba47370.mp3";
+    "h";
   let rotationAngle = ref(0);
   let rotateInterval = ref(null);
   let isRotating = ref(false);
